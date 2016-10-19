@@ -1,0 +1,1 @@
+ALTER DATABASE Chapter5App1Customers SET HADR OFF ;
