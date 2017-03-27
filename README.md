@@ -2,7 +2,7 @@
 
 This repository accompanies [*SQL Server AlwaysOn Revealed*](http://www.apress.com/9781484217627) by Peter Carter (Apress, 2015).
 
-![Cover image](9781484217627.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
